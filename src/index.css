@@ -39,3 +39,9 @@ a {
 ::-webkit-scrollbar-thumb:hover {
   background: #020202; 
 }
+
+#root{
+  min-height: calc(100vh - var(--bodyPaddingTop));
+  display: flex;
+  flex-direction: column;
+}
