@@ -1,45 +1,45 @@
 {
   "categorias": [
     {
-      "titulo": "Front End",
-      "link": "https://www.alura.com.br/formacao-front-end",
-      "cor": "#6BD1FF",
+      "titulo": "Ciência",
+      "link": "https://www.blogs.unicamp.br/sbbr/",
+      "cor": "yellow",
       "link_extra": {
-        "text": "Formação de Front End na Alura",
-        "url": "https://www.alura.com.br/cursos-online-front-end"
+        "text": "Blogs de ciências",
+        "url": "https://www.blogs.unicamp.br/sbbr/"
       },
       "videos": [
         {
-          "titulo": "O que faz uma desenvolvedora front-end? #HipstersPontoTube",
-          "url": "https://www.youtube.com/watch?v=ZY3-MFxVdEw"
+          "titulo": "Why Is Our Skeleton On the Inside?",
+          "url": "https://www.youtube.com/watch?v=JhOU3FOyApM"
         },
         {
-          "titulo": "SEO com React",
-          "url": "https://www.youtube.com/watch?v=c8mVlakBESE"
+          "titulo": "O segredo da MERITOCRACIA",
+          "url": "https://www.youtube.com/watch?v=YINTTVjBrY4"
         },
         {
-          "titulo": "Componentização com VanillaJS #AluraMais",
-          "url": "https://www.youtube.com/watch?v=LatCKpcOMak"
+          "titulo": "O Que É Energia? | Episódio 1",
+          "url": "https://www.youtube.com/watch?v=3VLPyOLC1nc"
         },
         {
-          "titulo": "Pare de chutar e aprenda a display: inline #01",
-          "url": "https://www.youtube.com/watch?v=5PS6ku8NzIE"
+          "titulo": "Evolução e Dispersão dos mamíferos",
+          "url": "https://www.youtube.com/watch?v=GTad-8hVc_Q"
         },
         {
-          "titulo": "Template String: Interpolando strings com JavaScript #AluraMais",
-          "url": "https://www.youtube.com/watch?v=ORI_HTXaIw0"
+          "titulo": "Falsificacionismo em Popper",
+          "url": "https://www.youtube.com/watch?v=nUcLZDA1SbM"
         },
         {
-          "titulo": "Qual é a melhor linguagem de programação? #HipstersPontoTube",
-          "url": "https://www.youtube.com/watch?v=Uh-GNH-t89w"
+          "titulo": "Combate genético",
+          "url": "https://www.youtube.com/watch?v=SAaqWFB-exA"
         },
         {
-          "titulo": "Novidades do Angular v9",
-          "url": "https://www.youtube.com/watch?v=34uHo7hFmG0"
+          "titulo": "Formas, Padrões e Alan Turing! - Top Models 9",
+          "url": "https://www.youtube.com/watch?v=Sf66BzciWE8"
         },
         {
-          "titulo": "Base para aprender os frameworks",
-          "url": "https://www.youtube.com/watch?v=QzDjdlF1BQI"
+          "titulo": "Por Que Vacinar?",
+          "url": "https://www.youtube.com/watch?v=xqBoD-ha6H0"
         }        
       ]
     },
