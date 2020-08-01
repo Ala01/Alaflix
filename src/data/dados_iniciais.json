@@ -44,42 +44,34 @@
       ]
     },
     {
-      "titulo": "Back End",
-      "cor": "#00C86F",
-      "link_extra": {
-        "text": "Cursos de Back End na Alura",
-        "url": "https://www.alura.com.br/cursos-online-programacao"
-      },
+      "titulo": "Musica",
+      "cor": "red",
       "videos": [
         {
-          "titulo": "PERCURSO em NÍVEL em ÁRVORE BINÁRIA | Estruturas de Dados #14",
-          "url": "https://www.youtube.com/watch?v=UOK7nS2E9xM"
+          "titulo": "Metallica - Seek & Destroy",
+          "url": "https://www.youtube.com/watch?v=Wm58sGEdgAw"
         },
         {
-          "titulo": "Coders4Tips - S01E04: GitHub CLI - Uma Nova Experiência no Github!",
-          "url": "https://www.youtube.com/watch?v=6o6-bKOZOEY"
+          "titulo": "System Of A Down - B.Y.O.B.",
+          "url": "https://www.youtube.com/watch?v=zUzd9KyIDrM&list=PLkNpUIZAvv2BEeXN2n9jbq3NuuN3uZWTo"
         },
         {
-          "titulo": "Programei 4 robôs que criam vídeos para mim no YouTube",
-          "url": "https://www.youtube.com/watch?v=kjhu1LEmRpY"
+          "titulo": "BLACK SABBATH - The Wizard",
+          "url": "https://www.youtube.com/watch?v=wkWbNYt_FNE"
         },
         {
-          "titulo": "API: Dicionário do Programador",
-          "url": "https://www.youtube.com/watch?v=vGuqKIRWosk"
+          "titulo": "The Black Keys - Fever",
+          "url": "https://www.youtube.com/watch?v=trk7P-9QDyc&list=PLGBVp7G8Q0aEgwLogXzfPecq3WePYVhO8"
         }, 
         {
-          "titulo": "Usando Git Direito",
-          "url": "https://www.youtube.com/watch?v=6OokP-NE49k"
+          "titulo": "RADKEY - Cat & Mouse",
+          "url": "https://www.youtube.com/watch?v=f5K0ZOH-koY&list=PLfCn2ALNUGoPH1EO4b9wLFuHA6a51b-8_"
         }
       ]
     },
     {
-      "titulo": "Data Science e Inteligência Artificial",
-      "cor": "#9cd33b",
-      "link_extra": {
-        "text": "Cursos de Data Science na Alura",
-        "url": "https://www.alura.com.br/formacao-data-science"
-      },
+      "titulo": "Teste",
+      "cor": "#6b5be2",
       "videos": [
         {
           "titulo": "Teste de Turing",
@@ -118,12 +110,16 @@
         {
           "titulo": "Feitiço do Tempo",
           "url": "https://www.youtube.com/watch?v=zi8d69P9NvI"
+        },
+        {
+          "titulo": "The Ballad of Buster Scruggs",
+          "url": "https://www.youtube.com/watch?v=_2PyxzSH1HM"
         }
       ]
     },
     {
       "titulo": "Games",
-      "cor": "red",
+      "cor": "#2A7AE4",
       "link_extra": {
         "text": "Formação de Jogos na Alura",
         "url": "https://www.alura.com.br/formacao-jogos-unity"
@@ -152,12 +148,8 @@
       ]
     },
     {
-      "titulo": "Aprendendo a aprender tecnologia",
-      "cor": "#6b5be2",
-      "link_extra": {
-        "text": "Curso sobre aprendizado na Alura",
-        "url": "https://alura.com.br/curso-online-aprender-a-aprender-tecnicas-para-seu-autodesenvolvimento"
-      },
+      "titulo": "Teste",
+      "cor": "#00C86F",
       "videos": [
         {
           "titulo": "Como estudar melhor?",

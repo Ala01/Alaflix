@@ -20,6 +20,10 @@ function App() {
         ignoreFirstVideo
         category={dadosIniciais.categorias[0]}
       />
+
+      <Carousel 
+        category={dadosIniciais.categorias[3]}
+      />
       
       <Carousel 
         category={dadosIniciais.categorias[1]}
@@ -30,11 +34,11 @@ function App() {
       />
 
       <Carousel 
-        category={dadosIniciais.categorias[3]}
+        category={dadosIniciais.categorias[4]}
       />
 
       <Carousel 
-        category={dadosIniciais.categorias[4]}
+        category={dadosIniciais.categorias[5]}
       />
 
       <Footer />
