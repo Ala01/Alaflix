@@ -3,7 +3,7 @@
     {
       "titulo": "Ciência",
       "link": "https://www.blogs.unicamp.br/sbbr/",
-      "cor": "yellow",
+      "cor": "#dfd000",
       "link_extra": {
         "text": "Blogs de ciências",
         "url": "https://www.blogs.unicamp.br/sbbr/"
