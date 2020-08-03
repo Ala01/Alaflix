@@ -51,7 +51,7 @@ function CadastroCategoria() {
         />
 
         <FormField
-          label="Descrição:"
+          label="Descrição"
           type="????"
           name="descricao"
           value={values.descricao}
