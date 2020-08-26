@@ -1,191 +1,191 @@
 {
-    "categorias": [
-      {
-        "id": 1,
-        "titulo": "Ciência",
-        "cor": "#DFD000",
-        "link_extra": {
-          "text": "Blogs de ciências",
-          "url": "https://www.blogs.unicamp.br/sbbr/"
-        }
-      },
-      {
-        "id": 2,
-        "titulo": "Música",
-        "cor": "red"
-      },
-      {
-        "id": 3,
-        "titulo": "Filmes",
-        "cor": "orange"
-      },
-      {
-        "id": 4,
-        "titulo": "Games",
-        "cor": "#2A7AE4"
-      },
-      {
-        "id": 5,
-        "titulo": "Kurzgesagt",
-        "cor": "#00C86F"
+  "categorias": [
+    {
+      "id": 1,
+      "titulo": "Ciência",
+      "cor": "#DFD000",
+      "link_extra": {
+        "text": "Blogs de ciências",
+        "url": "https://www.blogs.unicamp.br/sbbr/"
       }
-    ],
-    "videos": [
-      {
-        "id": 1,
-        "categoriaId": 1,
-        "titulo": "Why Is Our Skeleton On the Inside?",
-        "url": "https://www.youtube.com/watch?v=JhOU3FOyApM"
-      },
-      {
-        "id": 2,
-        "categoriaId": 1,
-        "titulo": "O segredo da MERITOCRACIA",
-        "url": "https://www.youtube.com/watch?v=YINTTVjBrY4"
-      },
-      {
-        "id": 3,
-        "categoriaId": 1,
-        "titulo": "O Que É Energia? | Episódio 1",
-        "url": "https://www.youtube.com/watch?v=3VLPyOLC1nc"
-      },
-      {
-        "id": 4,
-        "categoriaId": 1,
-        "titulo": "Evolução e Dispersão dos mamíferos",
-        "url": "https://www.youtube.com/watch?v=GTad-8hVc_Q"
-      },
-      {
-        "id": 5,
-        "categoriaId": 1,
-        "titulo": "Falsificacionismo em Popper",
-        "url": "https://www.youtube.com/watch?v=nUcLZDA1SbM"
-      },
-      {
-        "id": 6,
-        "categoriaId": 1,
-        "titulo": "Combate genético",
-        "url": "https://www.youtube.com/watch?v=SAaqWFB-exA"
-      },
-      {
-        "id": 7,
-        "categoriaId": 1,
-        "titulo": "Formas, Padrões e Alan Turing! - Top Models 9",
-        "url": "https://www.youtube.com/watch?v=Sf66BzciWE8"
-      },
-      {
-        "id": 25,
-        "categoriaId": 1,
-        "titulo": "Por Que Vacinar?",
-        "url": "https://www.youtube.com/watch?v=xqBoD-ha6H0"
-      },
-      {
-        "id": 8,
-        "categoriaId": 2,
-        "titulo": "Metallica - Seek & Destroy",
-        "url": "https://www.youtube.com/watch?v=Wm58sGEdgAw"
-      },
-      {
-        "id": 9,
-        "categoriaId": 2,
-        "titulo": "System Of A Down - B.Y.O.B.",
-        "url": "https://www.youtube.com/watch?v=zUzd9KyIDrM&list=PLkNpUIZAvv2BEeXN2n9jbq3NuuN3uZWTo"
-      },
-      {
-        "id": 10,
-        "categoriaId": 2,
-        "titulo": "BLACK SABBATH - The Wizard",
-        "url": "https://www.youtube.com/watch?v=wkWbNYt_FNE"
-      },
-      {
-        "id": 11,
-        "categoriaId": 2,
-        "titulo": "The Black Keys - Fever",
-        "url": "https://www.youtube.com/watch?v=trk7P-9QDyc&list=PLGBVp7G8Q0aEgwLogXzfPecq3WePYVhO8"
-      },
-      {
-        "id": 12,
-        "categoriaId": 2,
-        "titulo": "RADKEY - Cat & Mouse",
-        "url": "https://www.youtube.com/watch?v=f5K0ZOH-koY&list=PLfCn2ALNUGoPH1EO4b9wLFuHA6a51b-8_"
-      },
-      {
-        "id": 13,
-        "categoriaId": 3,
-        "titulo": "Interestellar",
-        "url": "https://www.youtube.com/watch?v=frD_IiY_A3E"
-      },
-      {
-        "id": 14,
-        "categoriaId": 3,
-        "titulo": "Gattaca",
-        "url": "https://www.youtube.com/watch?v=Dl0tYLbrhhs"
-      },
-      {
-        "id": 15,
-        "categoriaId": 3,
-        "titulo": "A Chegada",
-        "url": "https://www.youtube.com/watch?v=rNciXGzYZms"
-      },
-      {
-        "id": 16,
-        "categoriaId": 3,
-        "titulo": "Feitiço do Tempo",
-        "url": "https://www.youtube.com/watch?v=zi8d69P9NvI"
-      },
-      {
-        "id": 26,
-        "categoriaId": 3,
-        "titulo": "The Ballad of Buster Scruggs",
-        "url": "https://www.youtube.com/watch?v=_2PyxzSH1HM"
-      },
-      {
-        "id": 17,
-        "categoriaId": 4,
-        "titulo": "legend of zelda breath of the wild",
-        "url": "https://www.youtube.com/watch?v=zw47_q9wbBE"
-      },
-      {
-        "id": 18,
-        "categoriaId": 4,
-        "titulo": "The Legend of Zelda: Ocarina of Time",
-        "url": "https://www.youtube.com/watch?v=Jfg6RfClZJg"
-      },
-      {
-        "id": 19,
-        "categoriaId": 4,
-        "titulo": "Pokemon Yellow",
-        "url": "https://www.youtube.com/watch?v=juG1-F-Sykw"
-      },
-      {
-        "id": 20,
-        "categoriaId": 4,
-        "titulo": "Tony Hawk's Pro Skater 3",
-        "url": "https://www.youtube.com/watch?v=VOcnE-vC65U"
-      },
-      {
-        "id": 21,
-        "categoriaId": 4,
-        "titulo": "Final Fantasy 7",
-        "url": "https://www.youtube.com/watch?v=I_ATSCTnUD8"
-      },
-      {
-        "id": 22,
-        "categoriaId": 5,
-        "titulo": "Construir uma base em Marte é uma péssima ideia: Vamos construí-la!",
-        "url": "https://www.youtube.com/watch?v=uqKGREZs6-w"
-      },
-      {
-        "id": 23,
-        "categoriaId": 5,
-        "titulo": "O que está escondido no lugar mais solitário da Terra? - O Fundo do Mar",
-        "url": "https://www.youtube.com/watch?v=PaErPyEnDvk"
-      },
-      {
-        "id": 24,
-        "categoriaId": 5,
-        "titulo": "Por que as baleias azuis não tem câncer - Paradoxo de Peto",
-        "url": "https://www.youtube.com/watch?v=1AElONvi9WQ"
-      }
-    ]
-  }
+    },
+    {
+      "id": 2,
+      "titulo": "Música",
+      "cor": "red"
+    },
+    {
+      "id": 3,
+      "titulo": "Filmes",
+      "cor": "orange"
+    },
+    {
+      "id": 4,
+      "titulo": "Games",
+      "cor": "#2A7AE4"
+    },
+    {
+      "id": 5,
+      "titulo": "Kurzgesagt",
+      "cor": "#00C86F"
+    }
+  ],
+  "videos": [
+    {
+      "id": 1,
+      "categoriaId": 1,
+      "titulo": "Why Is Our Skeleton On the Inside?",
+      "url": "https://www.youtube.com/watch?v=JhOU3FOyApM"
+    },
+    {
+      "id": 2,
+      "categoriaId": 1,
+      "titulo": "O segredo da MERITOCRACIA",
+      "url": "https://www.youtube.com/watch?v=YINTTVjBrY4"
+    },
+    {
+      "id": 3,
+      "categoriaId": 1,
+      "titulo": "O Que É Energia? | Episódio 1",
+      "url": "https://www.youtube.com/watch?v=3VLPyOLC1nc"
+    },
+    {
+      "id": 4,
+      "categoriaId": 1,
+      "titulo": "Evolução e Dispersão dos mamíferos",
+      "url": "https://www.youtube.com/watch?v=GTad-8hVc_Q"
+    },
+    {
+      "id": 5,
+      "categoriaId": 1,
+      "titulo": "Falsificacionismo em Popper",
+      "url": "https://www.youtube.com/watch?v=nUcLZDA1SbM"
+    },
+    {
+      "id": 6,
+      "categoriaId": 1,
+      "titulo": "Combate genético",
+      "url": "https://www.youtube.com/watch?v=SAaqWFB-exA"
+    },
+    {
+      "id": 7,
+      "categoriaId": 1,
+      "titulo": "Formas, Padrões e Alan Turing! - Top Models 9",
+      "url": "https://www.youtube.com/watch?v=Sf66BzciWE8"
+    },
+    {
+      "id": 25,
+      "categoriaId": 1,
+      "titulo": "Por Que Vacinar?",
+      "url": "https://www.youtube.com/watch?v=xqBoD-ha6H0"
+    },
+    {
+      "id": 8,
+      "categoriaId": 2,
+      "titulo": "Metallica - Seek & Destroy",
+      "url": "https://www.youtube.com/watch?v=Wm58sGEdgAw"
+    },
+    {
+      "id": 9,
+      "categoriaId": 2,
+      "titulo": "System Of A Down - B.Y.O.B.",
+      "url": "https://www.youtube.com/watch?v=zUzd9KyIDrM&list=PLkNpUIZAvv2BEeXN2n9jbq3NuuN3uZWTo"
+    },
+    {
+      "id": 10,
+      "categoriaId": 2,
+      "titulo": "BLACK SABBATH - The Wizard",
+      "url": "https://www.youtube.com/watch?v=wkWbNYt_FNE"
+    },
+    {
+      "id": 11,
+      "categoriaId": 2,
+      "titulo": "The Black Keys - Fever",
+      "url": "https://www.youtube.com/watch?v=trk7P-9QDyc&list=PLGBVp7G8Q0aEgwLogXzfPecq3WePYVhO8"
+    },
+    {
+      "id": 12,
+      "categoriaId": 2,
+      "titulo": "RADKEY - Cat & Mouse",
+      "url": "https://www.youtube.com/watch?v=f5K0ZOH-koY&list=PLfCn2ALNUGoPH1EO4b9wLFuHA6a51b-8_"
+    },
+    {
+      "id": 13,
+      "categoriaId": 3,
+      "titulo": "Interestellar",
+      "url": "https://www.youtube.com/watch?v=frD_IiY_A3E"
+    },
+    {
+      "id": 14,
+      "categoriaId": 3,
+      "titulo": "Gattaca",
+      "url": "https://www.youtube.com/watch?v=Dl0tYLbrhhs"
+    },
+    {
+      "id": 15,
+      "categoriaId": 3,
+      "titulo": "A Chegada",
+      "url": "https://www.youtube.com/watch?v=rNciXGzYZms"
+    },
+    {
+      "id": 16,
+      "categoriaId": 3,
+      "titulo": "Feitiço do Tempo",
+      "url": "https://www.youtube.com/watch?v=zi8d69P9NvI"
+    },
+    {
+      "id": 26,
+      "categoriaId": 3,
+      "titulo": "The Ballad of Buster Scruggs",
+      "url": "https://www.youtube.com/watch?v=_2PyxzSH1HM"
+    },
+    {
+      "id": 17,
+      "categoriaId": 4,
+      "titulo": "legend of zelda breath of the wild",
+      "url": "https://www.youtube.com/watch?v=zw47_q9wbBE"
+    },
+    {
+      "id": 18,
+      "categoriaId": 4,
+      "titulo": "The Legend of Zelda: Ocarina of Time",
+      "url": "https://www.youtube.com/watch?v=Jfg6RfClZJg"
+    },
+    {
+      "id": 19,
+      "categoriaId": 4,
+      "titulo": "Pokemon Yellow",
+      "url": "https://www.youtube.com/watch?v=juG1-F-Sykw"
+    },
+    {
+      "id": 20,
+      "categoriaId": 4,
+      "titulo": "Tony Hawk's Pro Skater 3",
+      "url": "https://www.youtube.com/watch?v=VOcnE-vC65U"
+    },
+    {
+      "id": 21,
+      "categoriaId": 4,
+      "titulo": "Final Fantasy 7",
+      "url": "https://www.youtube.com/watch?v=I_ATSCTnUD8"
+    },
+    {
+      "id": 22,
+      "categoriaId": 5,
+      "titulo": "Construir uma base em Marte é uma péssima ideia: Vamos construí-la!",
+      "url": "https://www.youtube.com/watch?v=uqKGREZs6-w"
+    },
+    {
+      "id": 23,
+      "categoriaId": 5,
+      "titulo": "O que está escondido no lugar mais solitário da Terra? - O Fundo do Mar",
+      "url": "https://www.youtube.com/watch?v=PaErPyEnDvk"
+    },
+    {
+      "id": 24,
+      "categoriaId": 5,
+      "titulo": "Por que as baleias azuis não tem câncer - Paradoxo de Peto",
+      "url": "https://www.youtube.com/watch?v=1AElONvi9WQ"
+    }
+  ]
+}
