@@ -31,20 +31,34 @@ function CadastroVideo() {
 
       <form onSubmit={(event) => {
         event.preventDefault();
-
-        const categoriaEscolhida = categorias.find((categoria) => {
-          return categoria.titulo === values.categoria;
+        
+        /* Testar const
+        const categoriaEscolhida = {nome: '',descricao: '',cor: '',}
+        categoriaEscolhida = categorias.find((categoria) => {
+          if(categoria.titulo === values.categorias){
+            
+          }
+          return 
         });
-
+        */
+      
+        var categoriaEscolhida = categorias.find((categoria) => {
+            return categoria.titulo === values.categoria
+        });
+        
+        if(categoriaEscolhida === undefined){
+          categoriaEscolhida = categorias[0];
+        }
+        
         videosRepository.create({
           titulo: values.titulo,
           url: values.url,
           categoriaId: categoriaEscolhida.id,
         })
-          .then(() => {
-            console.log('Cadastrou com sucesso!');
-            history.push('/');
-          });
+        .then(() => {
+          console.log('Cadastrou com sucesso!');
+          history.push('/');
+        });
       }}
       >
         <FormField
